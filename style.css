@@ -11,3 +11,7 @@ p {
 	color: red;
 	margin-left: 40px;
 }
+
+div {
+	column-count: 3;
+}
