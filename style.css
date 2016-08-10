@@ -17,6 +17,8 @@ h3 {
 
 p {
 	font: verdana;
+	margin-top: 0;
+    margin-bottom: 0;
 }
 
 div {
