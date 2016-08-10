@@ -1,12 +1,14 @@
 body {
     background-color: lightblue;
+    font: verdana;
 }
 
 h1 {
     color: navy;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 6em;
+    width: 12em;
 }
 
 p {
